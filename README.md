@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: teamMember
-  - __Scrum Master__: teamMember
-  - __Development Team Members__: teamMember, teamMember
+  - __Product Owner__: Winntana Beyene
+  - __Scrum Master__: Adam Hebert
+  - __Development Team Members__: Sam Keer, Jordan Estes
 
 ## Table of Contents
 
@@ -20,15 +20,11 @@
 
 ## Usage
 
-> Some usage instructions
+TO BE FILLED IN
 
 ## Requirements
 
-- Node 0.10.x
-- Redis 2.6.x
-- Postgresql 9.1.x
-- etc
-- etc
+TO BE FILLED IN
 
 ## Development
 
@@ -36,17 +32,8 @@
 
 From within the root directory:
 
-```sh
-sudo npm install -g bower
-npm install
-bower install
-```
+TO BE FILLED IN
 
 ### Roadmap
 
 View the project roadmap [here](LINK_TO_PROJECT_ISSUES)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
