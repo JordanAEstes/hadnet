@@ -1,6 +1,6 @@
 # Hadnet
 
-> Pithy project description
+> Helping you connect with black-owned businesses and community groups in your area.
 
 ## Team
 
@@ -20,11 +20,16 @@
 
 ## Usage
 
-TO BE FILLED IN
+To Start Server:
+
+```javascript
+// Need usage instructions
+```
 
 ## Requirements
 
-TO BE FILLED IN
+- Node (^8.0.0)
+- Postgres (^10.0)
 
 ## Development
 
@@ -32,7 +37,9 @@ TO BE FILLED IN
 
 From within the root directory:
 
-TO BE FILLED IN
+```javascript
+npm install
+```
 
 ### Roadmap
 
