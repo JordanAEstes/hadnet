@@ -45,4 +45,5 @@ export class AppComponent implements OnInit {
         const sideDrawer = <RadSideDrawer>app.getRootView();
         sideDrawer.closeDrawer();
     }
+
 }
